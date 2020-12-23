@@ -6,5 +6,5 @@ Hi there 👋, I'm Francesc Obrador!
 
 #### Knowledge ✨
 Development: `C++`, `C#/Unity`, `JavsScript/Phaser3`, `Kotlin/Android`\
-VCS knowledge: `git`, `GitKraken`, `Sourcetree`\
+VCS: `git`, `GitKraken`, `Sourcetree`\
 IDEs: `Visual Studio`, `VS Code`, `Brackets`, `Android Studio`
