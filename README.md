@@ -8,3 +8,5 @@ Hi there 👋, I'm Francesc Obrador!
 Development: `C++`, `C#/Unity`, `JavsScript/Phaser3`, `Kotlin/Android`\
 VCS: `git`, `GitKraken`, `Sourcetree`\
 IDEs: `Visual Studio`, `VS Code`, `Brackets`, `Android Studio`
+
+Currently learning: `Yarn Spinner Tool`
