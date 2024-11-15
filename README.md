@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/MongoDB-234ea94b?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/TypeORM-FE0803.svg?style=flat&logo=typeorm&logoColor=white" alt="TypeORM"/>
   <img src="https://img.shields.io/badge/Unity-100000.svg?style=flat&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
 </p>
